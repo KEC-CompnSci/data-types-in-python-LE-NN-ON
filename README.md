@@ -20,7 +20,7 @@ num_str_3 = "7"       # A string containing a number (you might not need this!)
 word_1 = "robots"     # A word
 word_2 = "built"      # A word
 word_3 = "today"      # A word
-word_4 = "were"
+word_4 = "were" 
 ```
 
 ### Rules
@@ -67,3 +67,5 @@ Your code will be tested to make sure:
 - Look carefully at the provided variables - some might have hidden spaces!
 
 Good luck! 🚀
+
+print("55 robots were built today")
